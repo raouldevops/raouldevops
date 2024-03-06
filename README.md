@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raoul Cipah</h1>
 <h3 align="center">A passionate fullstack developer and cloud engineer from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raouldevops&label=Profile%20views&color=0e75b6&style=flat" alt="raouldevops" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raouldevops" alt="raouldevops" /></a> </p>
+<p align="left"> <img src="https://cdn-icons-png.flaticon.com/256/11068/11068837.png" alt="raouldevops" /> </p>
 
 - 💬 Ask me about **Java 8+, Angular 10+ and Amazon aws**
 
