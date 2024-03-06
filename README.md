@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raoul Cipah</h1>
 <h3 align="center">A passionate fullstack developer and cloud engineer from Canada</h3>
 
-<p align="left"> <img src="https://cdn-icons-png.flaticon.com/256/11068/11068837.png" alt="raouldevops" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif?username=raouldevops&label=Profile%20views&color=0e75b6&style=flat" alt="raouldevops" /> </p>
 
 - 💬 Ask me about **Java 8+, Angular 10+ and Amazon aws**
 
